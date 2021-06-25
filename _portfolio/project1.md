@@ -1,18 +1,18 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+title: Project E-vehicle **Vulcan**
+subtitle: A true masterpiece.
+image: assets/img/timeline/6.jpg
+alt: Vulcan in Auto-Expo
 
 caption:
   title: Threads
   subtitle: Illustration
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-thumbnail.jpg
+  thumbnail: assets/img/timeline/6.jpg
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+Our first electric supercar, on display in Auto-Expo UAE, it recieved the award for most innovative electric supercar, and also was the runner up in Global sustaiability index.
 
 {:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+- Date: November 2019
+- Client: Auto-Expo
+- Category: Display
 
