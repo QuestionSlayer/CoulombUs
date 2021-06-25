@@ -103,7 +103,7 @@ en: &DEFAULT_EN
     people:
       - name: "Archit Hari"
         role: "CEO, Founder"
-        image: assets/img/team/500x500.jpg
+        image: https://static.wikia.nocookie.net/deathnote/images/7/76/299276L.jpg/revision/latest?cb=20160609084420
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -113,7 +113,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Wizard_001"
         role: "Lead Marketer"
-        image: assets/img/team/2.jpg
+        image: https://qph.fs.quoracdn.net/main-qimg-89b38bda4337e6f7d4f9a7a16699b63f
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -123,7 +123,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Monster_0781"
         role: "Financial Analyst"
-        image: assets/img/team/500x500.jpg
+        image: https://i.pinimg.com/736x/4d/f9/c8/4df9c80da22c9e8b62ef4008061d4dfc.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
