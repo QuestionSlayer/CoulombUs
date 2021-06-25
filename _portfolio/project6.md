@@ -1,18 +1,18 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Robotic hands
+subtitle: Providing automated power
 image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/06-full.jpg
 alt: 
 
 caption:
-  title: Window
-  subtitle: Photography
+  title: Robots
+  subtitle: Work Solutions
   thumbnail: assets/img/portfolio/06-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+We developed a special range of robots, especially to automate the packing process at one of our factories, it can pack as high as 100 boxes a minute, owing to its superior circutry and algorithms. These robots can also help small factories to reduce their overhead costs and enhance the overall production
 
 {:.list-inline}
-- Date: October 2019
-- Client: Window
-- Category: Photography
+- Date: Jan 2021
+- Client: **100+** factories and workplaces
+- Category: Work-solutions
 
