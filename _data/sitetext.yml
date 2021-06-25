@@ -27,9 +27,9 @@ en: &DEFAULT_EN
       - title: "Electric Home solutions"
         desc: "What can be better than having a nice house? Eco- sustainable and affordable resources of course! Have a look at our electric home solutions"
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+      - title: "E-Commerce"
         desc: "We also provide you with e-commerce services to expand your reach to the global users!"
-        icon: fab fa-car
+        icon: fab fa-globe
 
   portfolio:
     title: "Portfolio"
