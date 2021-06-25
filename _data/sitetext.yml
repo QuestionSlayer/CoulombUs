@@ -29,7 +29,7 @@ en: &DEFAULT_EN
         icon: fas fa-laptop
       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
         desc: "We also provide you with e-commerce services to expand your reach to the global users!"
-        icon: fab fa-markdown
+        icon: fab fa-car
 
   portfolio:
     title: "Portfolio"
