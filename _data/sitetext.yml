@@ -33,39 +33,44 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Our experiences and strengths"
     section: portfolio
     closebutton: "Close Project"
 
   timeline:
     title: "About"
-    text: "Lorem ipsum timeline"
+    text: "Our evolution"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "The spark"
+        year: "2017-18"
+        desc: "The increasing number of environmental issues and problems faced by mankind inspired us to do something, something for the humankind..."
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "The Conjugation"
+        year: "November 2018"
+        desc: "The initial founders debated and rationalised on the future and goals of the company, and  CoulombUs finally came to being on 2 Nov 2018!( CoulombUs is inspired from the great discoverer Columbus and The famous Coulumb's Law!!)"
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "Our first E-vehicle *VULCAN* is released"
+        year: " Dec 2019"
+        desc: "After a year of hardwork, we were finally able to launch our Original Electric Super Car *VULCAN*, we also launched our *Home solutions* program"
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+      - title: "Launch of our *E-Commerce* services !"
+        year: "Nov 2020"
+        desc: "The pandemic though posed a serious challenge to CoulombUs, we went head on with it like a storm and came out succesful with the launch of our E-commerce service *Plancks*, signifying a connector in these tough times"
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
         align: right
+      - title: "CoulumbUs Website launched!"
+        year: "Jun 2021"
+        desc: "We launched CoulumbUs website to help more people know about us. You are viewing our website now! Yay!"
+        image: ""
+        
     end: "Be Part <br> of Our <br> Story!"
 
   about:
@@ -76,19 +81,18 @@ en: &DEFAULT_EN
   clients:
     section: clients
     max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
+    horizontal-scrolling: "yes" #"yes/no"
     list:
       - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/envato.jpg
       - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
+        
         logo: assets/img/clients/designmodo.jpg
       - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
+        
         logo: assets/img/clients/themeforest.jpg
       - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
+        
         logo: assets/img/clients/creative-market.jpg
 
   team:
@@ -97,8 +101,8 @@ en: &DEFAULT_EN
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
+      - name: "Archit Hari"
+        role: "CEO, Founder"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
@@ -107,7 +111,7 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
+      - name: "Wizard_001"
         role: "Lead Marketer"
         image: assets/img/team/2.jpg
         social:
@@ -117,8 +121,8 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
+      - name: "Monster_0781"
+        role: "Financial Analyst"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
@@ -130,7 +134,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "team.coulombus@gmail.com or +91 xxxxxxxx98"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
