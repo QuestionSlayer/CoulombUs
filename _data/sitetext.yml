@@ -54,18 +54,18 @@ en: &DEFAULT_EN
         desc: "The initial founders debated and rationalised on the future and goals of the company, and  CoulombUs finally came to being on 2 Nov 2018!( CoulombUs is inspired from the great discoverer Columbus and The famous Coulumb's Law!!)"
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Our first E-vehicle *VULCAN* is released"
+      - title: "Our first E-vehicle VULCAN is released"
         year: " Dec 2019"
-        desc: "After a year of hardwork, we were finally able to launch our Original Electric Super Car *VULCAN*, we also launched our *Home solutions* program"
+        desc: "After a year of hardwork, we were finally able to launch our Original **Electric Super Car VULCAN**, we also launched our **Home solutions** program"
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Launch of our *E-Commerce* services !"
+      - title: "Launch of our E-Commerce services !"
         year: "Nov 2020"
-        desc: "The pandemic though posed a serious challenge to CoulombUs, we went head on with it like a storm and came out succesful with the launch of our E-commerce service *Plancks*, signifying a connector in these tough times"
+        desc: "The pandemic though posed a serious challenge to CoulombUs, we went head on with it like a storm and came out succesful with the launch of our E-commerce service **Plancks**, signifying a connector in these tough times"
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
-        align: right
+        
       - title: "CoulumbUs Website launched!"
         year: "Jun 2021"
         desc: "We launched CoulumbUs website to help more people know about us. You are viewing our website now! Yay!"
@@ -81,7 +81,7 @@ en: &DEFAULT_EN
   clients:
     section: clients
     max-height: 100px
-    horizontal-scrolling: "yes" #"yes/no"
+    horizontal-scrolling: "no" #"yes/no"
     list:
       - title: "envato"
         logo: assets/img/clients/envato.jpg
@@ -97,8 +97,8 @@ en: &DEFAULT_EN
 
   team:
     title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    text: "For we are a family."
+    subtext: "Teamwork is a secret that makes common people achieve uncommon results: **Ifeyachi Onuoha**"
     section: team
     people:
       - name: "Archit Hari"
