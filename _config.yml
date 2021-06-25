@@ -17,10 +17,10 @@ remote_theme: raviriley/agency-jekyll-theme
 url    : "https://questionslayer.github.io/CoulombUs" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
 
-title      : CoulombUs: Your e-support
+title      : "CoulombUs: Your e-support"
 email      : archithari1003@gmail.com #this is also the email contact forms will go to
-description: "Agency Bootstrap theme converted to a Jekyll theme, plus new features: Google Analytics, Markdown support, custom pages, and more!"
-author     : Your Name
+description: "The official site of CoulombUs: Your e-support"
+author     : Archit Hari
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
