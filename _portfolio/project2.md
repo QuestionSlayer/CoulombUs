@@ -5,7 +5,7 @@ image: assets/img/portfolio/a.jpg
 alt: Keep Exploring
 
 caption:
-  title: Sustanable Town
+  title: Sustainable Town
   subtitle: Home solutions
   thumbnail: assets/img/portfolio/a.jpg
 ---
