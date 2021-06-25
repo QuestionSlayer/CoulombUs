@@ -69,7 +69,7 @@ en: &DEFAULT_EN
       - title: "CoulumbUs Website launched!"
         year: "Jun 2021"
         desc: "We launched CoulumbUs website to help more people know about us. You are viewing our website now! Yay!"
-        image: "assets/img/timeline/image 5.jpg"
+        image: "assets/img/timeline/5.jpg"
         
     end: "Be Part <br> of Our <br> Story!"
 
